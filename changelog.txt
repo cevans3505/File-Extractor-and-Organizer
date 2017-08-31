@@ -1,0 +1,2 @@
+version 0.1
+	Created very basic python routine to extract all files from all subdirectories into parent directory.
