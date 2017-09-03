@@ -1,6 +1,9 @@
-version 0.1
+v0.1
 *	Created very basic python routine to extract all files from all subdirectories into parent directory
 
-version 0.2
-*	Added user configurable variable (keepExts) to define specific file extensions the user wishes to extract leaving unwanted file extensions in their respective directories
+v0.2
+*	Added user configurable array (keepExts) to define specific file extensions the user wishes to extract leaving unwanted file extensions in their respective directories
 *	Added user configurable variable (destDir) to define the absolute dir path to store extracted files
+
+v0.2.1
+* Added user configurable array (skipDirs) to define specifc directories to omit from file extractor subroutine.
