@@ -94,5 +94,5 @@ print("\nThe following sub-directories (including all files remaining within) we
 for i in deletedDirectories:
     print(i)
 
-#input("Press 'Enter' key to exit.")
+input("Press 'Enter' key to exit.")
 exit()
