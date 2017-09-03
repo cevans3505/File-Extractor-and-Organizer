@@ -10,3 +10,8 @@ v0.2.1
 
 v0.3
 * Added directory deletion routine to delete the directories from which all wanted files were previously extracted
+
+v0.4
+* Fleshed out the user configuration section
+* Code cleanup
+* Fully functional as of this version. However, strongly advise commenting out line #69 and line #83 and running the script to verify the correct file extensions are being extracted to the correct directory and that no directories are being deleted that you actually intend to keep.
