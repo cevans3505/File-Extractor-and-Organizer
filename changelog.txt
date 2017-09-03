@@ -7,3 +7,6 @@ v0.2
 
 v0.2.1
 * Added user configurable array (skipDirs) to define specifc directories to omit from file extractor subroutine.
+
+v0.3
+* Added directory deletion routine to delete the directories from which all wanted files were previously extracted
